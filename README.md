@@ -42,10 +42,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 export const BASE_URL = `http://YOUR_LOCAL_IP_ADDRESS:9000`;
 export const MAPBOX_ACCESS_TOKEN = `YOUR_MAPBOX_API_TOKEN`;
 ````````````````````````````````````````````````
-
-
-### Website Design & Developed by
-[Anshuman Pattnaik](https://www.linkedin.com/in/anshuman123/)
-
-### License
-This project is licensed under the [MIT License](LICENSE)
